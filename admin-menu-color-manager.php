@@ -3,7 +3,7 @@
  * Plugin Name: Admin Menu Color Manager
  * Plugin URI: https://github.com/CdrMarks/admin-menu-color-manager.git
  * Description: Customize the colors of the WordPress admin menu.
- * Version: 1.0.2
+ * Version: 1.0.3
  * Author: Ryan Marks
  * Author URL: https://profile.wordpress.org/rmarks
  * License: GPL2
